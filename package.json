@@ -1,0 +1,14 @@
+{
+    "name": "JwwCJmnFG5rVl76",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "โปรแกรมการตลาด ออโต้โพส",
+    "keywords": [
+        "โปรแกรมการตลาด ออโต้โพส"
+    ],
+    "repository": "https://github.com/AdsalphaTH/S5qAhhnJCl.git",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
